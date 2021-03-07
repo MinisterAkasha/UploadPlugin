@@ -27,3 +27,9 @@ new Upload(inputSelector, options, uploadHendler)
 | fileSizeClass |  file-size elem classes | arr | ['file-size'] |
 | removingClass |  this class is assigned before the element is removed to play the animation  | string | 'removing' |
 | removingAnimatitionDuration |  the number of milliseconds after which the item will be removed  | number | 330 |
+
+## To see example:
+- git clone https://github.com/MinisterAkasha/UploadPlugin.git
+- cd UploadPlugin
+- npm install
+- npm serve
