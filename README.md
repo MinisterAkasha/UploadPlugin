@@ -1,5 +1,4 @@
 # Custom Input of type file 
-## _The Last Markdown Editor, Ever_
 
 ## Usage:
 
