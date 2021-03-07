@@ -1,4 +1,4 @@
-# Custom Input of type file 
+# Custom File Input
 
 ## Usage:
 
