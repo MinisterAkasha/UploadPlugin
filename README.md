@@ -26,4 +26,4 @@ new Upload(inputSelector, options, uploadHendler)
 | fileNameClass |  file-name elem classes | arr | ['file-name'] |
 | fileSizeClass |  file-size elem classes | arr | ['file-size'] |
 | removingClass |  this class is assigned before the element is removed to play the animation  | string | 'removing' |
-| removingAnimatitionDuration |  the number of milliseconds after which the item will be removed  | number | 333 |
+| removingAnimatitionDuration |  the number of milliseconds after which the item will be removed  | number | 330 |
