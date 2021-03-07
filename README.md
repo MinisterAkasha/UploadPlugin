@@ -33,3 +33,5 @@ new Upload(inputSelector, options, uploadHendler)
 - cd UploadPlugin
 - npm install
 - npm serve
+
+![alt text](https://github.com/MinisterAkasha/UploadPlugin/blob/main/expamle.png?raw=true)
